@@ -1,18 +1,18 @@
 ---
 name: cloud-brain
-description: Landon's "cloud brain" — his ClickUp wiki of durable knowledge, people, work, finances, and project-continuity records (folder "Brain (Personal Wiki)"). Use (a) to get up to speed, load context, or resume a project from the brain at the start of work, and (b) to capture durable info back to it — a decision and its rationale, a status change or milestone, new lasting facts, or when Landon says "update the wiki," "remember this," or "save this to the brain." Requires the ClickUp connector.
+description: Landon's "cloud brain" — his ClickUp wiki (folder "Brain (Personal Wiki)") of durable knowledge, project-continuity records, and the standing orders ("the Bible") for how to work with him. Use this to LOAD the brain at the start of essentially any substantive session — to get up to speed, resume a project, or pull Landon's context and operating preferences — and to CAPTURE durable info back to it: a decision + its rationale, a status change or milestone, new lasting facts, or whenever Landon says "update the wiki," "remember this," "save this to the brain," or asks you to get up to speed. Prefer using it over working without his context. Requires the ClickUp connector.
 ---
 
 # Cloud Brain — load & capture
 
-Landon's cloud brain is a persistent, cross-session memory living in ClickUp (folder "Brain (Personal Wiki)", workspace 90141328427). Its operating manual, **📍 START HERE**, is the single source of truth for how the brain is organized and the rules for reading, writing, and maintaining it. Use the **ClickUp connector** for all access. (The connector signs in as a separate account, "LKB's Claude Web," not Landon's own login.)
+Landon's cloud brain is his persistent, cross-session memory in ClickUp (folder "Brain (Personal Wiki)", workspace 90141328427). Two docs anchor it: **📍 START HERE** (how the brain is organized + the read/write/maintain rules) and the **📖 Bible** page it links (the standing orders for how to work with Landon — being on his team, objectivity/left-bias correction, honesty over sycophancy, verifying facts, communication, autonomy, proactivity). Use the **ClickUp connector** for all access. (The connector signs in as a separate account, "LKB's Claude Web," not Landon's own login.)
 
-**Always start here:** read the START HERE operating manual — ClickUp doc id `2kydf11b-754` — and follow it. It holds the Index, the per-type templates, and the full protocols. Everything below is a summary; START HERE governs if anything conflicts.
+**Always start here:** read **START HERE** (ClickUp doc `2kydf11b-754`) and the **📖 Bible** page (`2kydf11b-594`) it links, and follow both — START HERE governs brain mechanics; the Bible governs how you work with Landon. Everything below is a summary; those docs govern if anything conflicts.
 
 ## Mode 1 — Load / get up to speed
-When Landon wants to resume work or load context:
-1. Read START HERE (`2kydf11b-754`).
-2. Use its **Index (§9)** to choose the right doc.
+When loading context or resuming work:
+1. Read START HERE (`2kydf11b-754`) and the linked 📖 Bible (`2kydf11b-594`); follow both.
+2. Use START HERE's **Index (§9)** to choose the right doc.
 3. For a project: open its doc and read the **Snapshot** page (a complete briefing on its own); open sub-pages only for deeper detail.
 4. For a category item (Knowledge, People, Work, Finances, Daily Log, etc.): list the doc's pages first, then read only the page you need — don't read a whole category doc for one item.
 5. Briefly confirm what you loaded and the current state before acting.
@@ -25,11 +25,15 @@ When a decision is made, direction changes, a milestone or substantial chunk of 
 4. At the end of a substantial session, update the relevant project **Snapshot**, and record the change (add a Changelog line for the manual or a project Snapshot).
 5. New docs must be created **Public** (inside the Private folder) so Landon can see them. The connector **cannot delete** — **archive in place** instead of removing.
 
+## Feedback handling
+When Landon gives a preference, correction, or feedback, follow START HERE §5's feedback loop: capture one line to the 📥 Inbox tagged `feedback`, apply it immediately for the rest of the session (confirm in one line), and triage it during the daily cleanup (route behavior prefs to the Bible).
+
 ## Proactive capture
 At the end of a substantial session, or when a clear decision / milestone / durable fact lands, **briefly offer** to capture it to the brain — one line, don't nag. Capture only during a live session (a detached or scheduled job can't see the conversation it would record); scheduling is reserved for maintenance.
 
 ## Key resources
-- START HERE operating manual: doc `2kydf11b-754`.
+- **📍 START HERE** (brain structure + rules): doc `2kydf11b-754`.
+- **📖 Bible** (how to work with Landon): page `2kydf11b-594` (inside START HERE).
 - Flagship project "Cloud Brain — Cross-Surface Hub": doc `2kydf11b-774`.
 - Wiki folder "Brain (Personal Wiki)": `901410154929` (workspace `90141328427`).
 
