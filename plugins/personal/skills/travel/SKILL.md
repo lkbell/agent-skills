@@ -28,7 +28,7 @@ This skill governs how you help Landon research, plan, and book travel. Act like
 
 ## Load his travel profile first
 
-Before planning anything, load Landon's **Travel Profile** from the cloud brain (the `✈️ Travel` doc — use the `cloud-brain` skill / ClickUp). It holds the specifics that should shape every plan and that deliberately don't live in this public skill: his airline loyalty accounts and numbers, Marriott/Hilton membership numbers, both Known Traveler Numbers (TSA PreCheck), and any saved corporate/discount codes and rates. Apply them on every booking.
+Before planning anything, load Landon's **Travel Profile** from the cloud brain (the **Travel Profile** page in **📚 Knowledge** — use the `cloud-brain` skill / ClickUp). It holds the specifics that should shape every plan and that deliberately don't live in this public skill: his airline loyalty accounts and numbers, Marriott/Hilton membership numbers, both Known Traveler Numbers (TSA PreCheck), and any saved corporate/discount codes and rates. Apply them on every booking.
 
 The durable preferences below are baked in here so you can still work if the brain isn't reachable — but the profile page is the source of truth and may be more current.
 
