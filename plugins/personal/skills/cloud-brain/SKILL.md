@@ -11,9 +11,9 @@ Landon's cloud brain is his persistent, cross-session memory in ClickUp (folder 
 
 ## Mode 1 — Load / get up to speed
 1. Read START HERE (`2kydf11b-754`) and follow it, including the pages it routes you to (the 📖 Bible especially — the standing orders for how to work with Landon).
-2. Use START HERE's **Index (§9)** to choose the right doc.
-3. For a project: open its doc and read the **Snapshot** page (a complete briefing on its own); open sub-pages only for deeper detail.
-4. For a category item (Knowledge, People, Work, Finances, Daily Log, etc.): list the doc's pages first, then read only the page you need — don't read a whole category doc for one item.
+2. Use START HERE's **Index (§9)** to choose the right component doc.
+3. For a project: open the **🗂️ Projects** hub and read the project's **Snapshot** page (a complete briefing on its own); open sub-pages only for deeper detail.
+4. For a specific item (a 🧠 Wiki page — People, Knowledge, Work, Finances — or a Daily Log entry, etc.): list the doc's pages first, then read only the page you need — don't read a whole doc for one item.
 5. Briefly confirm what you loaded and the current state before acting.
 
 ## Mode 2 — Capture / save
@@ -32,8 +32,7 @@ At the end of a substantial session, or when a clear decision / milestone / dura
 
 ## Key resources
 - **📍 START HERE** (the entry point — brain structure, rules, and routing to the Bible): doc `2kydf11b-754`.
-- Flagship project "Cloud Brain — Cross-Surface Hub": doc `2kydf11b-774`.
-- Wiki folder "Brain (Personal Wiki)": `901410154929` (workspace `90141328427`).
+- Brain folder "Brain (Personal Wiki)": `901410154929` (workspace `90141328427`).
 
 ## If the ClickUp connector isn't available on this surface
 Say so plainly and proceed without the brain here; offer to load or capture later on a surface where ClickUp is connected.
