@@ -1,6 +1,6 @@
 ---
 name: deep-research-general
-description: Deep research for questions with NO left-right political or cultural axis — where honest researchers from left and right would converge given the same evidence. Products and purchases, science, health and medicine, technology, business and markets, travel, how-things-work, history and biography without a culture-war overlay. Use whenever Landon asks for deep research, a thorough investigation, "the real story," or a well-sourced report on a neutral question. Runs a primary-record/data lane, stakeholder-advocate lanes (only when interested parties exist), a ground-experience lane, and a comparison lab; adjudicates on an evidence-tier ladder; verifies facts AND framing; delivers a cited, confidence-tiered ledger. ROUTER — route on the question asked, not the topic's reputation: if the conclusion itself would land differently by political tribe, use the sibling skill deep-research-contested instead ("best EV to buy" → this skill; "are EV mandates good policy" → sibling).
+description: Deep research for questions with no left-right political or cultural axis — products, science, health, tech, business, travel, uncoded history. Use whenever Landon asks for deep research or a well-sourced report on a neutral question; route on the question asked, not the topic's reputation — if the conclusion would land differently by political tribe ("are EV mandates good policy"), use deep-research-contested instead.
 ---
 
 # Deep Research — General (v1.1)

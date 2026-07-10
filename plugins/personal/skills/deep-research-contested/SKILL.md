@@ -1,6 +1,6 @@
 ---
 name: deep-research-contested
-description: Deep research for topics touching politics or culture — anywhere the left-right axis runs through the evidence: elections, policy, crime, immigration, education, DEI, gender, climate policy, guns, contested history, media and institutional fights, the real story of any coded event or org. Use whenever Landon asks for deep research or a behind-the-press-releases account where media framing or Claude's documented left lean could tilt the answer. Five lanes (Advocate-Right with extra effort, Advocate-Left, Primary-Record, Ground-Experience, Reversal Lab), evidence-tier adjudication, labeled counterfactuals, frame verification; the process holds right rudder while evidence standards stay fixed on truth. ROUTER — if honest researchers left and right would converge on the same evidence (products, neutral science/health/tech, travel, business, uncoded history), use deep-research-general instead.
+description: Deep research for topics touching politics or culture — anywhere the left-right axis runs through the evidence. Use whenever Landon asks for deep research, "the real story," or a behind-the-press-releases account where media framing or Claude's documented left lean could tilt the answer; counter-weighted process, truth-fixed evidence standards. If honest researchers left and right would converge on the same evidence ("best EV to buy"), use deep-research-general instead.
 ---
 
 # Deep Research — Contested Topics (v1.2)
