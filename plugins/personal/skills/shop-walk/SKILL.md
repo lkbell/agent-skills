@@ -22,7 +22,7 @@ Ground yourself first: if you haven't already this session, skim **`README.md`**
 
 ## Working principles
 
-- **Read before you overwrite.** A ClickUp page or a Brain file update replaces the whole thing — read the current content first and write back the full intended result; removals must be deliberate, never accidental.
+- **Read before you overwrite.** A Brain file update replaces the whole file — read the current content first and write back the full intended result; removals must be deliberate, never accidental.
 - **Don't over-churn.** Fix real inconsistencies and errors; for trivial or cosmetic staleness, just note it rather than rewriting whole files (a whole-file rewrite for a typo risks introducing new errors, and a protected-lane file still needs a review artifact no matter how small the change).
 - **Be honest.** Actually check before saying "all good," and separate must-do from optional. If you're unsure something landed, say so plainly.
 - **Stay thin and Brain-driven.** Operate through README.md's index; don't hardcode paths beyond the load-bearing ones (`README.md`, `bible/`, `now.md`, `tasks/README.md`, `log/`, `inbox/`, `projects/`), which change when the Brain is restructured.
