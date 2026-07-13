@@ -17,7 +17,7 @@ Ground yourself first: if you haven't already this session, skim **`README.md`**
 4. **Check cross-doc consistency.** The Brain's files should agree — design, links, status, naming. Reconcile contradictions (e.g., a Snapshot still saying "planned" for something now built).
 5. **Inventory for cruft.** Look for orphaned, outdated, test, or overcome-by-events content: list the Brain's directories (`wiki/`, `projects/`, `inbox/`) and cross-check against README.md's index. Flag anything to archive or delete (route any deletion through the normal lane process for that path). Unlike the old ClickUp doc search, a repo directory listing is exhaustive, not keyword-limited — no "may not be exhaustive" caveat is needed here.
 6. **Log the day.** Append today's entry to **`log/YYYY-MM.md`** (append lane — direct commit) if it isn't already done.
-7. **Update what changed.** Refresh any touched **`projects/*/snapshot.md`** (protected lane — PR + independent review artifact; batch multiple snapshot updates on one branch for the session) and triage **`inbox/`** items that are ready to route home.
+7. **Update what changed, and tidy `now.md`.** Refresh any touched **`projects/*/snapshot.md`** (protected lane — PR + independent review artifact; batch multiple snapshot updates on one branch for the session) and triage **`inbox/`** items ready to route home. **Tidy `now.md`**: delete resolved / no-longer-hot lines, leave the next agent a note on anything in-flight, and keep it to about one screen — it's a scratchpad, so prune and update, don't rebuild wholesale.
 8. **Deliver the end-of-day report** (structure below).
 
 ## Working principles
