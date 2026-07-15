@@ -44,6 +44,18 @@ The brief must name:
 7. verification for every material requirement;
 8. escalation conditions;
 9. reporting contract to the architect.
+10. capability-routing policy, including any user-pinned model, reasoning, latency, or cost constraint.
+
+## Route models by capability
+
+Keep routing policy agent-agnostic. Use the Brain sub-agent playbook's capability tiers, then map them at runtime to configurations the current platform actually exposes.
+
+- Choose the foreman's tier from the execution brief: use the top tier for ambiguous, cross-cutting, or high-risk execution; use the workhorse tier for bounded implementation with a settled plan.
+- Let the foreman assign each direct worker the tier its subtask warrants. Workers normally use the workhorse tier; hard judgment and integration use the top tier; verifiers are at least as capable as authors.
+- When available, set thread- or child-level model, reasoning, and service-tier controls explicitly. Do not hardcode provider or model names into the core workflow.
+- If an override is unavailable, inherit the parent configuration or allow the platform to route automatically, and disclose that fallback in the progress dashboard.
+- Treat an accepted override as evidence that the requested configuration was accepted, not independent proof of the worker's runtime identity unless the platform exposes that evidence.
+- Expect controls to vary by delegation depth. Keep routing at the nearest parent that exposes the required controls rather than assuming every descendant can select models for its own children.
 
 ## Launch the foreman
 
@@ -81,6 +93,7 @@ Prefer an in-conversation visualization when supported; otherwise use one compac
 - next milestone;
 - blockers, risks, and decisions needed from Landon;
 - latest verification evidence;
+- foreman capability tier and a compact worker-routing summary, including inherited or automatic-routing fallbacks;
 - last checkpoint time.
 
 Keep it operational and plain-English. Avoid constant narration, fake precision, and raw tool logs. A percentage is an estimate tied to completed milestones, never a claim of certainty.
