@@ -1,6 +1,8 @@
 {
   "name": "personal",
   "description": "Landon's personal skills",
-  "version": "0.21.1",
-  "author": { "name": "Landon Bell" }
+  "version": "0.21.2",
+  "author": {
+    "name": "Landon Bell"
+  }
 }
