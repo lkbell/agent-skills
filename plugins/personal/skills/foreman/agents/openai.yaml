@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foreman"
+  short_description: "Execute approved plans under architect supervision"
+  default_prompt: "Use $foreman to execute the approved plan through a supervised foreman thread with live progress reporting."
